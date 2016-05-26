@@ -2,7 +2,7 @@ var msg = 'hello world';
 msg = 5.5;
 
 var num=5;
-num = '';
+num = ' ';
 for (var index = 0; index < array.length; index++) {
     var element = array[index];
     
